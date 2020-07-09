@@ -10,3 +10,7 @@ def function_02(arg):
 
 def function_03(arg):
     print("ほげほげ")
+
+
+def function_04(arg):
+    print("ふがふが")
