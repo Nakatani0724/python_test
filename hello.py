@@ -1,5 +1,6 @@
 print('good morning')
 
+
 def function_01(arg):
     print("hogehoge")
 
@@ -14,3 +15,7 @@ def function_03(arg):
 
 def function_04(arg):
     print("ふがふが")
+
+
+def function_05(arg):
+    print("ふ-がふ-が")
